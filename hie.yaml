@@ -1,0 +1,7 @@
+cradle:
+  direct:
+    arguments:
+      - -package
+      - containers
+      - -package
+      - split
